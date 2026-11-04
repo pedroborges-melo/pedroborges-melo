@@ -26,6 +26,11 @@ Most of my work lives in private client repositories, so this profile shows open
 | Econometrics & causal inference | Difference-in-differences, regression discontinuity, synthetic control, CausalImpact, PyMC |
 | Engineering | FastAPI, Celery, Apache Airflow, Docker, PostgreSQL, dbt, C#/.NET, GitHub Actions |
 
+### Projects
+
+- [bodycams-synthetic-control](https://github.com/pedroborges-melo/bodycams-synthetic-control): re-analysis of my undergraduate thesis with public data rebuilt from the source (Python). Synthetic control and synthetic difference-in-differences put the drop in police killings at about 50%; placebo tests make the evidence suggestive, not conclusive.
+
 ### Open source
 
 - [modeltime](https://github.com/business-science/modeltime): fix for model fitting when the package is not attached ([#267](https://github.com/business-science/modeltime/pull/267)).
+- [Supabase on Railway](https://github.com/6ixfalls/supabase): fix for Kong 3.9 crashing on boot by moving the declarative config to a writable path ([#28](https://github.com/6ixfalls/supabase/pull/28)).
