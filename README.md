@@ -28,6 +28,7 @@ Most of my work lives in private client repositories, so this profile shows open
 
 ### Projects
 
+- [nem-battery-arbitrage](https://github.com/pedroborges-melo/nem-battery-arbitrage): how much is a price forecast worth? A year of day-ahead battery arbitrage on public Australian market data, with a mixed-integer program (PuLP) planning each day on five forecasts. The most accurate forecast did not reliably earn the most; how well a forecast ordered the day's hours tracked revenue better than its average error.
 - [bodycams-synthetic-control](https://github.com/pedroborges-melo/bodycams-synthetic-control): re-analysis of my undergraduate thesis with public data rebuilt from the source (Python). Synthetic control and synthetic difference-in-differences put the drop in police killings at about 50%; placebo tests make the evidence suggestive, not conclusive.
 
 ### Open source
